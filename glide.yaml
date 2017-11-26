@@ -1,4 +1,6 @@
 package: github.com/arschles/jar
 import:
 - package: github.com/spf13/cobra
-  version: ~0.0.1
+  version: f62e98d28ab7ad31d707ba837a966378465c7b57
+- package: github.com/mattn/go-zglob
+  version: 4b74c24375b3b1ee226867156e01996f4e19a8d6
