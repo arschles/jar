@@ -1,2 +1,3 @@
 # jar
-Simple Static Site Generator Written 
+
+Simple Static Site Generator Written in Go
